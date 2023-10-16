@@ -22,7 +22,7 @@ import 'swiper/css/scrollbar';
 
 const projects = [
     { index: 1, title: "Uniclick", image: uniclick, url: "https://www.uniclick.com.mx/", description: "Una plataforma digital de productos y servicios financieros comprometidos con el desarrollo sostenible de México", language1: react, language2: lit, language3: angular },
-    { index: 2, title: "Netlogistik", image: netlogistik, url: "", description: "Operaciones de almacenaje, transporte, aprovisionamiento y retail con soluciones de software y hardware", language1: javascript, language2: bootstrap, language3: github },
+    { index: 2, title: "Netlogistik", image: netlogistik, url: "https://www.netlogistik.com/es/", description: "Operaciones de almacenaje, transporte, aprovisionamiento y retail con soluciones de software y hardware", language1: javascript, language2: bootstrap, language3: github },
     { index: 3, title: "Grupo Promesa", image: grupopromesa, url: "https://grupopromesa.mx/", description: "Grupo PROMESA se dedica a la educación ambiental en escuelas, empresas y viviendas de México.", language1: wordpress, language2: analytics, language3: django },
     { index: 4, title: "asimexico", image: asimexico, url: "https://asimexico.org/", description: "Autoestima, Salud e Imagen es una sociedad sin fines de lucro, que ayuda personas a tener una imagen positiva", language1: wordpress, language2: analytics, language3: github },
 ]
